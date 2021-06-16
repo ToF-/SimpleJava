@@ -1,4 +1,4 @@
-package helloworld;
+package main.helloworld;
 
 import org.junit.jupiter.api.Test;
 
